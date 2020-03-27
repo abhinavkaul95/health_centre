@@ -1,0 +1,11 @@
+.medicines_list {
+  padding: 0;
+}
+.medicine {
+  list-style: none;
+  margin-bottom: 3%;
+}
+.medicine .medicine_image {
+  margin: 0 auto;
+  display: block;
+}

@@ -1,0 +1,11 @@
+{
+  "uses": [
+    "Analgesics",
+    "Antipyretics",
+    "Antibiotics",
+    "For Cardiovascular",
+    "For CNS"
+  ],
+  "company": ["GSK", "Cipla", "Mankind", "Patanjali"],
+  "salt": ["Paracetamol", "Cetirizine"]
+}
